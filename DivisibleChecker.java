@@ -6,7 +6,7 @@ public static void main(String[] args)
 {
 Scanner obj = new Scanner(System.in);
 int num1, num2;
-System.out.println("Enter the first number: ");
+System.out.println("Enter the first numberrrrrr: ");
 num1 = obj.nextInt();
 System.out.println("Enter the second number: ");
 num2 = obj.nextInt();
